@@ -1,17 +1,19 @@
-# Welcome to my site!
+<img src="assets/banner.png" alt="Banner" width="100%">
+
+# 👋 Welcome to My Site!
 
 ---
 
-## Current courses:
-* Basic programming skills (Python)
-* Intro to statistics
+## 🎓 Current Courses
+- 🐍 **Basic Programming Skills (Python)**
+- 📊 **Intro to Statistics**
 
 ---
 
-## Current lab:
-* Shalev Itzkovitz
+## 🔬 Current Lab
+- **Shalev Itzkovitz Lab**
 
 ---
 
-## Current project:
-* Gene polarization in mouse kidney
+## 🧬 Current Project
+- **Gene Polarization**
